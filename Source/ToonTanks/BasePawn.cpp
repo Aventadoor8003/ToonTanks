@@ -4,7 +4,6 @@
 #include "BasePawn.h"
 #include "Components/CapsuleComponent.h"
 #include "Kismet/GamePlayStatics.h"
-//#include "DrawDebugHelpers.h"
 #include "Projectile.h" 
 
 // Sets default values
@@ -24,6 +23,11 @@ ABasePawn::ABasePawn()
 
 	ProjectileSpawnPoint = CreateDefaultSubobject<USceneComponent>(TEXT("Spawn Point"));
 	ProjectileSpawnPoint->SetupAttachment(TurretMesh);
+}
+
+void ABasePawn::HandleDestruction()
+{
+	//Visual and sound effects
 }
 
 void ABasePawn::RotateTurret(FVector LookAtTarget)
