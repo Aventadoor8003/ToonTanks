@@ -26,7 +26,9 @@
             "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h",
             "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tank.generated.h",
             "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\tower.h",
-            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h"
+            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h",
+            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "e:\\toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
